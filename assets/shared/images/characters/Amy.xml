@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Amy.png"><SubTexture name="Amy Idle0000" x="0" y="0" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Idle0001" x="904" y="0" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Idle0002" x="1808" y="0" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Idle0003" x="2712" y="0" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Idle0004" x="3616" y="0" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Idle0005" x="0" y="904" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Idle0006" x="904" y="904" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Idle0007" x="1808" y="904" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Idle0008" x="2712" y="904" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Down0000" x="3616" y="904" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Down0001" x="0" y="1808" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Down0002" x="904" y="1808" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Left0000" x="1808" y="1808" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Left0001" x="2712" y="1808" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Left0002" x="3616" y="1808" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Left0003" x="0" y="2712" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Left0004" x="904" y="2712" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Right0000" x="1808" y="2712" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Right0001" x="2712" y="2712" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Right0002" x="3616" y="2712" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Right0003" x="0" y="3616" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Right0004" x="904" y="3616" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Up0000" x="1808" y="3616" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Up0001" x="2712" y="3616" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Up0002" x="3616" y="3616" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Up0003" x="0" y="4520" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Up0004" x="904" y="4520" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Blue0000" x="1808" y="4520" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Blue0001" x="2712" y="4520" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Violet0000" x="3616" y="4520" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Violet0001" x="0" y="5424" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Red0000" x="904" y="5424" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Red0001" x="1808" y="5424" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Green0000" x="2712" y="5424" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+<SubTexture name="Amy Green0001" x="3616" y="5424" width="904" height="904" frameX="0" frameY="0" frameWidth="904" frameHeight="904" />
+</TextureAtlas>
