@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				205,
+				470
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Amy Idle"
+		},
+		{
+			"offsets": [
+				205,
+				470
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Amy Left"
+		},
+		{
+			"offsets": [
+				205,
+				470
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Amy Down"
+		},
+		{
+			"offsets": [
+				205,
+				470
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Amy Up"
+		},
+		{
+			"offsets": [
+				205,
+				470
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Amy Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				205,
+				470
+			],
+			"anim": "singLEFTmiss",
+			"fps": 8,
+			"name": "Amy Violet",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				205,
+				470
+			],
+			"anim": "singDOWNmiss",
+			"fps": 8,
+			"name": "Amy Blue",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				205,
+				470
+			],
+			"anim": "singUPmiss",
+			"fps": 8,
+			"name": "Amy Green",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				205,
+				470
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 8,
+			"name": "Amy Red",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Amy",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "Amy",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		100,
+		255
+	],
+	"camera_position": [
+		-60,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
